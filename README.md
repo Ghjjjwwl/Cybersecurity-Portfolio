@@ -10,5 +10,12 @@ This was my first experience with NCL, but not my first CTF experience as I have
 
 My results in my opinion were favorable, although ofcourse I would have liked to do better for myself. The biggest bar to my grade I believe was Time. Next chance I will for sure put a more serious effort into committing more of time during the allotted time. 
 
+
+  ### NCL Spring 2026 
+  Continuing my education journey and 2nd experience with NCL Capture the Flag (CTF) Competition. Overall improvement over last time in both completion and accuracy. In the future I am going to start adapting the technique of double checking answers/possibly refraining from submitting unless I am overly confident in my answer. 
+    Scouting report to be uploaded potentially at a later date, there were some administrative issues that came up this time in the team game that caused some issues.
+
+  I maintain my perspective that NCL Cyberskyline events are very good to maintain and grow your skillset and I look forward to competing in future competitions. 
+
 ## NCL Highlights 
 A few notes here, I am most proud of me squashing the Reverse Engineering of a specific binary using Ghidra. It was my first time using Ghidra personally after doing a bit of research and playing around in the Interface I was able to score points during our team game @ 100% accuracy. # Another note about the team game, in my opinion was much more enjoyable as you are able to collaborate with other humans and I feel like that is advantage in itself as sometimes you just need another person's perspective or opinion to give you that last break you need to overcome any adversity you may be facing in working on the challenges. 
